@@ -2,7 +2,7 @@
     --nc-theme-color: #498cd9;
 }
 em.sm-text{
-    font-size: .8rem;
+    font-size: .9rem;
 }
 .theme-bg {
     background-color: var(--nc-theme-color);
