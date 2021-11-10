@@ -12,7 +12,7 @@ em.sm-text{
     color: var(--nc-theme-color);
 }
 .font-standard-size{
-    font-size: .85rem;
+    font-size: 1rem;
 }
 .fw-500{
     font-weight: 500;
