@@ -29,7 +29,6 @@ em.sm-text{
 }
 .blt-element {
     position: relative;
-    margin-bottom: .5rem;
 }
 
 .blt-element:before {
