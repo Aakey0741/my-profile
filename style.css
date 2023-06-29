@@ -13,6 +13,7 @@ em.sm-text{
 }
 .font-standard-size{
     font-size: 1rem;
+    line-height: 1.65;
 }
 .fw-500{
     font-weight: 500;
